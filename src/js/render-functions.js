@@ -16,7 +16,7 @@ export const createGallery = images => {
       <p>Likes: <span>${image.likes}</span></p>
       <p>Views: <span>${image.views}</span></p> 
       <p>Comments: <span>${image.comments}</span></p>
-      <p>Downloads: <span>${image.download}</span></p>
+      <p>Downloads: <span>${image.downloads}</span></p>
       </div>
       </li>
     `
